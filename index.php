@@ -134,9 +134,7 @@ $bridgedEnabled = getBridgedState();
             </div>
           </div>
         </div>
-        <li class="nav-item">
-          <a class="nav-link" href="wlan0_info"><i class="fas fa-tachometer-alt fa-fw mr-2"></i><span class="nav-label"><?php echo _("Dashboard"); ?></span></a>
-        </li>
+       ////////dashboard
           <?php if (RASPI_HOTSPOT_ENABLED) : ?>
         <li class="nav-item">
           <a class="nav-link" href="hostapd_conf"><i class="far fa-dot-circle fa-fw mr-2"></i><span class="nav-label"><?php echo _("Hotspot"); ?></a>

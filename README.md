@@ -15,7 +15,8 @@ To run this project, a Raspberry PI is a must.
 
 ## Project Scheme
 <img src="https://user-images.githubusercontent.com/48913541/205083071-6396dd7c-76fb-4eb9-8a7a-89d103089756.png" width="600" height="600"/>
-## Use-case Diagram : 
+
+## Use-case Diagram
 <img src="https://user-images.githubusercontent.com/48913541/205082860-d9f88de9-237e-414a-9b54-8c342b0bd8df.png" width="600" height="600"/>
 
 ## Some front UI
